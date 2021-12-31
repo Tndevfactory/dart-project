@@ -1,1 +1,1 @@
-A simple command-line application.
+A medical application for diabete detection
